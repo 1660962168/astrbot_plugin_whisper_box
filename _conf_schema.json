@@ -1,0 +1,15 @@
+{
+    "wait_time": {
+        "title": "等待时间（秒）",
+        "description": "用户发送消息后，等待后续输入的时长。超时后将合并消息并提交给AI。",
+        "type": "float",
+        "default": 5.0
+    },
+    "chat_scope": {
+        "title": "生效范围",
+        "description": "配置此插件是在私聊生效、群聊生效，还是全部接管。",
+        "type": "string",
+        "options": ["全部", "仅私聊", "仅群聊"],
+        "default": "全部"
+    }
+}

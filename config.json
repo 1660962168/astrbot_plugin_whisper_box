@@ -1,0 +1,8 @@
+{
+    "wait_time": {
+        "title": "等待时间（秒）",
+        "description": "用户发送消息后，等待后续输入的时长。超时后将合并消息并提交给AI。",
+        "type": "number",
+        "default": 5.0
+    }
+}

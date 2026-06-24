@@ -1,0 +1,6 @@
+name: astrbot_plugin_whisper_box # 插件唯一识别名
+display_name: 碎碎念收集器 # 用于展示的名字
+desc: 倾听你的每一句碎碎念。接收用户的连续输入，等待自定义秒数后合并，再交给AI统一处理，让陪伴更有耐心。
+version: v1.0.0 # 插件版本号
+author: 刘师傅 # 作者名字
+repo: https://github.com/your-username/astrbot_plugin_whisper_box # 插件的仓库地址
