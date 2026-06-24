@@ -21,7 +21,7 @@
 1. 确保你的机器人正在使用 **AstrBot** 框架。
 2. 在 AstrBot 控制台的插件市场中安装（如已上架），或者通过 git clone 将本仓库克隆到 AstrBot 的 `data/plugins/` 目录下：
    ```bash
-   git clone [https://github.com/1660962168/astrbot_plugin_whisper_boxt](https://github.com/1660962168/astrbot_plugin_whisper_box)
+   git clone https://github.com/1660962168/astrbot_plugin_whisper_box
    ```
 3. 在 AstrBot 控制台重启机器人或重载插件即可生效。
 
