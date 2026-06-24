@@ -19,7 +19,7 @@
 ## 📦 安装说明
 
 1. 确保你的机器人正在使用 **AstrBot** 框架。
-2. 在 AstrBot 控制台的插件市场中安装（如已上架），或者通过 git clone 将本仓库克隆到 AstrBot 的 `data/plugins/` 目录下：
+2. 在 AstrBot 控制台的插件市场中安装（如已上架），或者通过 在 AstrBot WebUI 中进入“插件管理”，选择从 Git 安装，填写仓库地址：：
    ```bash
    git clone https://github.com/1660962168/astrbot_plugin_whisper_box
    ```
